@@ -1,2 +1,2 @@
-# end2end-nlp-project
+# Article emotion detector 
 end2end nlp python project
